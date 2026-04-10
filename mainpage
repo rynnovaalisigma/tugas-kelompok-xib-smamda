@@ -7,7 +7,7 @@
   <style>
   * { box-sizing: border-box; margin: 0; padding: 5; font-family: Arial, sans-serif; }
     body { background: #f4f6f8; color: #333; }
-    header { background: #163070; color: #F0FaD4; padding: 20px; text-align: center; }
+    header { background: #6b5749; color: #F0FaD4; padding: 20px; text-align: center; }
     nav { background: #0f7b4a; padding: 10px; text-align: center; }
     nav a { color: white; margin: 0 15px; text-decoration: none; font-weight: bold; }
     nav a:hover { text-decoration: underline; }
@@ -17,14 +17,16 @@
     .cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; }
     .card { background: white; padding: 20px; border-radius: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); }
     .card h3 { margin-bottom: 10px; color: #0a5c36; }
-    footer { background: #163070; color: #F0FaD4; text-align: center; padding: 15px; margin-top: 40px; }
+    footer { background: #6b5749; color: #F0FaD4; text-align: center; padding: 15px; margin-top: 40px; }
   </style>
 </head>
 <body>
-  
   <header>
     <h1 style=""> Welcome To XI. B</h1>
-    <p> deskripsi </p>
+    <p> isi deskripsi </p>
   </header>
+
+<section class="container">
+  <h2 style="
 </body>
 </html>
